@@ -1,0 +1,4 @@
+inherit gnome2
+
+DESCRIPTION="GNOME download manager"
+HOMEPAGE="http://live.gnome.org/GGet"
